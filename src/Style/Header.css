@@ -1,0 +1,70 @@
+.div2{
+
+    display:flex;
+    margin-left:100px;
+    
+}
+.div3{
+    border:1px solid black;
+    height:45px;
+    width:100px;
+    
+}
+
+.img1{
+    height:100%;
+    width:50%;
+    margin-left:25px;
+    
+}
+
+
+
+
+
+
+
+
+.div4{
+    border:1px solid black;
+    height:45px;
+    width:850px;
+    margin-left:10px;
+    display:float;
+
+}
+
+
+
+.input1{
+    width:650px;
+    height:40px;
+    margin-left:5px;
+    margin-top:0px;
+    
+}
+.img2{
+    margin-left:50px;
+    height:90%;
+    width:10%;
+
+   
+}
+
+
+
+.div5{
+    border:1px solid black;
+    height:45px;
+    width:150px;
+    margin-left:20px;
+    display:block;
+}
+.div6{
+    border:1px solid black;
+    height:45px;
+    width:100px;
+    margin-left:20px;
+    display:block;
+}
+

@@ -1,0 +1,20 @@
+.pdiv1{
+    display:flex;
+}
+.pdiv2{
+    display:float;
+    float:left;
+    border:1px solid black;
+    
+}
+.pdiv3{
+    display:block;
+    align-items:center;
+    
+}
+
+.pimg1{
+    height:300px;
+    width:350px;
+
+}
